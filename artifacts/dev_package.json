@@ -1,0 +1,47 @@
+{
+	"id": "599422A4-FC0B-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-25T09:32:04.193Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-businesscontactcard",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-businesscontactcard",
+	"description": null,
+	"ver": "22.7.25.933",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "3253E0D5-7970-416E-83B7-86AF20F752B3",
+			"ver": "22.7.25.1132",
+			"application": "neptbb_contact_popover",
+			"title": "UTIL - PERSONA",
+			"description": "Business Partner Contact Card - Simple"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
